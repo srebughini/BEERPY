@@ -15,7 +15,7 @@
 Its [conda package](https://www.anaconda.com/) can be installed as follow:
 
 ```bash
-conda install -c conda-forge asalicode::beerpy
+conda install asalicode::beerpy
 ```  
 
 ## 2. Examples
