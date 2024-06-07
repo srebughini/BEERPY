@@ -1,0 +1,5 @@
+name: beerpy
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.7,<3.10
