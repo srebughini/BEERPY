@@ -21,23 +21,20 @@ conda install -c conda-forge asalicode::beerpy
 ## 2. Examples
 The use of **beerpy** is pretty straightforward, but here you can find an example that might help:  
 
-```javascript
+```python
 import beerpy as bp
 
-// Generate beer quotes object with the language of your website
-let beerQuote = BeerQuote("eng");
+# Extract list of authors
+author_list = bp.get_author_list()
 
-// Extract list of authors
-let authorList = beerQuote.getAuthorList();
+# Extract a random quote
+random_quote = bp.get_random_quote(language="eng")
 
-// Extract a random quote
-let randomQuote = beerQuote.getRandomQuote();
+# Extract quotes of a specific author
+author_quotes = bp.get_quotes_from_author("Benjamin Franklin")
 
-// Extract quotes of a specific author
-let authorQuotes = beerQuote.getQuotesFromAuthor("Benjamin Franklin");
-
-// Extract a random quote of a specific author
-let randomAuthorQuote = beerQuote.getRandomQuoteFromAuthor("W. C. Fields");
+# Extract a random quote of a specific author
+random_author_quote = bp.get_random_quote_from_author("W. C. Fields")
 ```
 
 ## 3. Contacts

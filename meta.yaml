@@ -21,15 +21,12 @@ requirements:
     - python {{ python }}
 
 test:
-  imports:
-    - beerpy
-
   source_files:
-    - tests
-    - run_tests.py
+    - beerpy.py
+    - example.py
 
   commands:
-    - python run_tests.py --local
+    - python example.py --local
 
 about:
   home: https://srebughini.github.io/BEERQ/
