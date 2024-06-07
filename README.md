@@ -6,7 +6,7 @@
   <a href="https://anaconda.org/ASALIcode/beerpy"><img alt="Conda (channel only)" src="https://img.shields.io/conda/vn/asalicode/beerpy?color=blue&style=popout-square"></a>
   <a href="https://anaconda.org/ASALIcode/beerpy"><img alt="Conda - License" src="https://img.shields.io/conda/l/asalicode/beerpy?style=popout-square"></a>
   <a href="https://anaconda.org/ASALIcode/beerpy"><img alt="Conda" src="https://img.shields.io/conda/dn/asalicode/beerpy?style=popout-square"></a>
-  <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/srebughini/BEERPY?style=flat-square">
+  <a href="https://www.codefactor.io/repository/github/srebughini/beerpy"><img src="https://www.codefactor.io/repository/github/srebughini/beerpy/badge" alt="CodeFactor" /></a>
   <a href="https://github.com/srebughini/BEERPY/stargazers"><img src="https://img.shields.io/github/stars/srebughini/BEERPY.svg?style=popout-square"></a>
 </p>
 
