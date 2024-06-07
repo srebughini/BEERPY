@@ -7,7 +7,6 @@
   <a href="https://anaconda.org/ASALIcode/beerpy"><img alt="Conda - License" src="https://img.shields.io/conda/l/asalicode/beerpy?style=popout-square"></a>
   <a href="https://anaconda.org/ASALIcode/beerpy"><img alt="Conda" src="https://img.shields.io/conda/dn/asalicode/beerpy?style=popout-square"></a>
   <a href="https://www.codefactor.io/repository/github/srebughini/beerpy"><img src="https://www.codefactor.io/repository/github/srebughini/beerpy/badge" alt="CodeFactor" /></a>
-  <a href="https://github.com/srebughini/BEERPY/stargazers"><img src="https://img.shields.io/github/stars/srebughini/BEERPY.svg?style=popout-square"></a>
 </p>
 
 ## 1. Installation
