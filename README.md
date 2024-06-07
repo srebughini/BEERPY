@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://i.imgur.com/PFly6Ls.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/DdqhvIU"><img src="https://i.imgur.com/DdqhvIU.png" title="source: imgur.com" /></a>
 </p>
 <p align="center">
   <a href="https://anaconda.org/ASALIcode/beerpy"><img alt="Conda" src="https://img.shields.io/conda/pn/asalicode/beerpy?color=orange&style=popout-square"></a>
